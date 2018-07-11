@@ -1,0 +1,20 @@
+.label {
+    -fx-min-width: 80;
+    -fx-font: 10 Verdana, Arial, sans-serif;
+}
+
+.textfield {
+    -fx-min-width: 80;
+    -fx-padding: 5;
+    -fx-font: 10 Verdana, Arial, sans-serif;
+}
+
+.btn {
+    -fx-min-width: 80;
+    -fx-background-color: #ff0000;
+}
+
+.btn:hover {
+    -fx-min-width: 80;
+    -fx-background-color: #00ff00;
+}
