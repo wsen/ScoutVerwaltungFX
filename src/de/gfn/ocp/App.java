@@ -107,7 +107,7 @@ public class App extends Application {
             saveDataToFile();
         });
         
-        primaryStage.setTitle("Hello World!");
+        primaryStage.setTitle("Hello Test!");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
